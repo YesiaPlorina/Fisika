@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FisikaKu</string>
+    <string name="loading">loading....</string>
+    <string name="confir">confirmation</string>
+    <string name="sure">are you sure for?</string>
+    <string name="error_message">minimal 6 angka/huruf</string>
+    <string name="error_message_kosong">tidak boleh kosong</string>
+    <string name="error_message_no_hp">Minimal 10 angka!</string>
+    <string name="action_call">LogOut</string>
+    <string name="action_settings">Setting</string>
+</resources>
